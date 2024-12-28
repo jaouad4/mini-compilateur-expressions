@@ -1,6 +1,6 @@
 # Mini Compilateur d'Expressions Mathématiques
 ## Description
-Cet application est un mini compilateur d'expressions mathématiques avec interface graphique, développé en Python. Il permet d'évaluer des expressions mathématiques en respectant la priorité des opérations et la gestion des parenthèses. Le programme décompose le processus de compilation en trois phases principales : analyse lexicale, analyse syntaxique et évaluation.
+Cette application est un mini compilateur d'expressions mathématiques avec interface graphique, développé en Python. Il permet d'évaluer des expressions mathématiques en respectant la priorité des opérations et la gestion des parenthèses. Le programme décompose le processus de compilation en trois phases principales : analyse lexicale, analyse syntaxique et évaluation.
 
 ## Fonctionnalités
 - Interface graphique intuitive
