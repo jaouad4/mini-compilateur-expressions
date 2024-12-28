@@ -92,6 +92,9 @@ Pour contribuer au projet :
 - Améliorer l'interface utilisateur
 - Ajouter des raccourcis clavier
 
+## Capture d'écran
+![Mini Compilateir](Images/mini-compilateur.png)
+
 ## Licence
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
