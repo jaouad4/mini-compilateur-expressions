@@ -24,7 +24,7 @@ Cette application est un mini compilateur d'expressions mathématiques avec inte
 ## Utilisation
 1. Exécutez le script principal :
 ```bash
-python math_compilateur.py
+python mini_compilateur.py
 ```
 
 2. Dans l'interface graphique :
